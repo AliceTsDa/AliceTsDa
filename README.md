@@ -15,6 +15,10 @@ Biomedical research fascinates me! I want to be able to help people through my s
 For the record I speak Greek, English, Italian and French. I also have a piano and classical harmony diploma. Wanna be painter as well.
 <br>
 
+(My resume needs an update, I know :P)
+
+<br>
+
 <!-- social media buttons -->
 [![CV][8_icon]][6]
 &nbsp;
