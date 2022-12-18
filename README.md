@@ -34,7 +34,7 @@ For the record I speak Greek, English, Italian and French. I also have a piano a
 <!-- links to social media accounts -->
 [2]: http://www.facebook.com/profile.php?id=100004037878472
 [5]: https://open.spotify.com/31ygimx3yd2mxkc6whwbo3rcwuli
-[6]: https://drive.google.com/https://drive.google.com/file/d/1BP8OiaiONBuHKC_NMu9n3WrhZDefqLpx/view?usp=share_link
+[6]: https://drive.google.com/file/d/1BP8OiaiONBuHKC_NMu9n3WrhZDefqLpx/view?usp=share_link
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliceTsDa&theme=nord&hide_border=True&layout=compact&card_width=444&langs_count=10)](https://github.com/AliceTsDa/github-readme-stats)
