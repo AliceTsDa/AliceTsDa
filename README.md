@@ -1,6 +1,6 @@
 
 <h1>
-Hello there! Art X Science
+Hello there! Science X Art
 </h1>
 
 
