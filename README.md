@@ -7,11 +7,7 @@ Hello there! Science X Art
 My name is Alice, I'm 22 and although I'm an art kid at heart, I also have a great passion for Science.
 <br>
 <br>
-I aspire to become a research scientist on the field of Bioinformatics.
-Biomedical research fascinates me! I want to be able to help people through my science and that I think is a form of art on each own.
-<br>
-<br>
-I'm also interested on ui/ux designing because it allows me to flex my creative muscles! 
+I aspire to become a ui/ux designer because it allows me to flex my creative muscles! 
 <br>
 <br>
 I speak Greek, English, Italian and French. I also have a classical harmony diploma and I'm working on getting my piano diploma. When I'm not coding I like to sing and create paintings.
