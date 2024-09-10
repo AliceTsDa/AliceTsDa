@@ -33,6 +33,7 @@ I speak Greek, English, Italian and French. I also have a classical harmony dipl
 [5_icon]: https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge-m&logo=spotify&logoColor=black
 [6_icon]: https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge-m&logo=facebook&logoColor=black
 [4_icon1]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://linkedin.com/in/aliki-tsamopoulou-damiani-805262264)
 
 <!-- links to social media accounts -->
 [2]: http://www.facebook.com/profile.php?id=100004037878472
